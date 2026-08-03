@@ -17,7 +17,7 @@
   <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
-## 🚀 About Me
+## About Me
 
 I am an passionate developer focused on building responsive, high-performance web applications and experimenting with modern tech stacks.
 
@@ -37,7 +37,7 @@ I am an passionate developer focused on building responsive, high-performance we
   <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 <p align="center">
   <img src="assets/skills.svg" alt="Animated Skills Dashboard" width="100%">
@@ -72,7 +72,7 @@ I am an passionate developer focused on building responsive, high-performance we
   <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
-## 🔍 Currently Exploring
+## Currently Exploring
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -92,7 +92,7 @@ I am an passionate developer focused on building responsive, high-performance we
   <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=niro1n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f111a&title_color=7aa2f7&icon_color=bb9af3&text_color=a9b1d6" height="185" alt="Overall Stats" />
@@ -103,19 +103,15 @@ I am an passionate developer focused on building responsive, high-performance we
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=niro1n&theme=tokyonight&hide_border=true&background=0f111a&ring=7aa2f7&fire=f7768e&currStreakNum=7aa2f7&sideNums=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6" height="185" alt="GitHub Streak" />
 </p>
 
-<details>
-  <summary>📈 <b>View GitHub Activity Graph</b> (Click to expand)</summary>
-  <br>
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=niro1n&theme=tokyo-night&bg_color=0f111a&color=7aa2f7&line=bb9af3&point=73daca&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-  </p>
-</details>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niro1n&theme=tokyo-night&bg_color=0f111a&color=7aa2f7&line=bb9af3&point=73daca&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
 
 <p align="center">
   <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
-## 🏆 Achievements & Badges
+## Achievements & Badges
 
 <p align="center">
   <img src="https://github-profile-trophy.herokuapp.com/?username=niro1n&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
@@ -140,7 +136,7 @@ I am an passionate developer focused on building responsive, high-performance we
   <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
-## 🎵 Dev Soundtrack & Wisdom
+## Soundtrack & Wisdom
 
 <table align="center" width="100%" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -161,7 +157,7 @@ I am an passionate developer focused on building responsive, high-performance we
   <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
-## 👾 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/niro1n/niro1n/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
@@ -171,7 +167,7 @@ I am an passionate developer focused on building responsive, high-performance we
   <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
-## ⚡ Recent Activity
+## Recent Activity
 
 <!-- START_SECTION:activity -->
 *Currently coding behind the scenes...*
@@ -181,7 +177,7 @@ I am an passionate developer focused on building responsive, high-performance we
   <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com">
