@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 280" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="term-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0b10" />
+      <stop offset="100%" stop-color="#12141f" />
+    </linearGradient>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      
+      .term-text {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 14px;
+        fill: #a9b1d6;
+      }
+      
+      /* Code Highlight Colors */
+      .keyword { fill: #bb9af3; font-weight: bold; }
+      .string  { fill: #9ece6a; }
+      .key     { fill: #7aa2f7; }
+      .number  { fill: #ff9e64; }
+      .bracket { fill: #f7768e; }
+      
+      /* Cursor Blinking Animation */
+      .cursor {
+        fill: #7aa2f7;
+        animation: blink 0.8s step-end infinite;
+      }
+      @keyframes blink {
+        50% { opacity: 0; }
+      }
+
+      /* Line Typing Animations via Covering Rectangles */
+      .mask-rect {
+        fill: #0a0b10;
+        animation-fill-mode: forwards;
+        animation-timing-function: steps(30, end);
+      }
+
+      /* Sequential revealing of lines */
+      .mask-l1 { animation: typeLine 1.5s 0.5s forwards; }
+      .mask-l2 { animation: typeLine 1.8s 2s forwards; }
+      .mask-l3 { animation: typeLine 1.5s 3.8s forwards; }
+      .mask-l4 { animation: typeLine 2s 5.3s forwards; }
+      .mask-l5 { animation: typeLine 1.5s 7.3s forwards; }
+      .mask-l6 { animation: typeLine 1s 8.8s forwards; }
+
+      @keyframes typeLine {
+        from { transform: scaleX(1); }
+        to { transform: scaleX(0); }
+      }
+
+      /* Smooth Cursor Movement across lines */
+      .cursor-node {
+        animation: moveCursor 10.5s ease-in-out infinite;
+      }
+
+      @keyframes moveCursor {
+        /* Line 1 Typing */
+        0%, 4.7% { transform: translate(30px, 70px); }
+        14.2% { transform: translate(200px, 70px); }
+        
+        /* Transition to Line 2 */
+        14.3%, 19% { transform: translate(50px, 95px); }
+        36.1% { transform: translate(342px, 95px); }
+        
+        /* Transition to Line 3 */
+        36.2%, 38% { transform: translate(50px, 120px); }
+        55.2% { transform: translate(300px, 120px); }
+        
+        /* Transition to Line 4 */
+        55.3%, 57% { transform: translate(50px, 145px); }
+        74.2% { transform: translate(426px, 145px); }
+        
+        /* Transition to Line 5 */
+        74.3%, 76% { transform: translate(50px, 170px); }
+        83.8% { transform: translate(275px, 170px); }
+        
+        /* Transition to Line 6 */
+        83.9%, 85% { transform: translate(30px, 195px); }
+        93.3% { transform: translate(57px, 195px); }
+        
+        /* Loop Hold */
+        93.4%, 100% { transform: translate(57px, 195px); }
+      }
+
+      /* Border */
+      .term-border {
+        stroke: #24283b;
+        stroke-width: 1.5;
+        fill: none;
+      }
+    </style>
+  </defs>
+
+  <!-- Terminal Window Container -->
+  <rect width="848" height="278" x="1" y="1" rx="8" fill="url(#term-bg)" />
+  <rect width="848" height="278" x="1" y="1" rx="8" class="term-border" />
+
+  <!-- Window Header Bar -->
+  <path d="M 1 25 L 849 25 L 849 8 C 849 4 845 1 841 1 L 9 1 C 5 1 1 4 1 8 Z" fill="#161925" />
+  
+  <!-- Window Control Buttons (Mac style) -->
+  <circle cx="18" cy="13" r="5" fill="#f7768e" />
+  <circle cx="34" cy="13" r="5" fill="#ff9e64" />
+  <circle cx="50" cy="13" r="5" fill="#73daca" />
+  
+  <!-- Tab / Filename -->
+  <text x="80" y="17" font-family="'JetBrains Mono', monospace" font-size="11" fill="#565f89">profile.ts</text>
+
+  <!-- Code Block Content -->
+  <g transform="translate(10, 10)">
+    <!-- Line numbers -->
+    <text x="15" y="70" class="term-text" fill="#3b4261">1</text>
+    <text x="15" y="95" class="term-text" fill="#3b4261">2</text>
+    <text x="15" y="120" class="term-text" fill="#3b4261">3</text>
+    <text x="15" y="145" class="term-text" fill="#3b4261">4</text>
+    <text x="15" y="170" class="term-text" fill="#3b4261">5</text>
+    <text x="15" y="195" class="term-text" fill="#3b4261">6</text>
+
+    <!-- Syntax Highlighted Code Lines -->
+    <text x="40" y="70" class="term-text">
+      <tspan class="keyword">const</tspan> <tspan class="key">developer</tspan> = <tspan class="bracket">{</tspan>
+    </text>
+    
+    <text x="40" y="95" class="term-text">
+      <tspan fill="none">  </tspan><tspan class="key">name</tspan>: <tspan class="string">"Syahfrino Rezky Oktaviant"</tspan>,
+    </text>
+    
+    <text x="40" y="120" class="term-text">
+      <tspan fill="none">  </tspan><tspan class="key">role</tspan>: <tspan class="string">"Full Stack Developer"</tspan>,
+    </text>
+    
+    <text x="40" y="145" class="term-text">
+      <tspan fill="none">  </tspan><tspan class="key">skills</tspan>: <tspan class="bracket">[</tspan><tspan class="string">"React"</tspan>, <tspan class="string">"Next.js"</tspan>, <tspan class="string">"Go"</tspan>, <tspan class="string">"Docker"</tspan><tspan class="bracket">]</tspan>,
+    </text>
+    
+    <text x="40" y="170" class="term-text">
+      <tspan fill="none">  </tspan><tspan class="key">exploring</tspan>: <tspan class="string">"Microservices"</tspan>
+    </text>
+    
+    <text x="40" y="195" class="term-text">
+      <tspan class="bracket">};</tspan>
+    </text>
+
+    <!-- Typing Cover Masks -->
+    <rect x="40" y="55" width="220" height="20" class="mask-rect mask-l1" transform-origin="40px 55px" />
+    <rect x="40" y="80" width="415" height="20" class="mask-rect mask-l2" transform-origin="40px 80px" />
+    <rect x="40" y="105" width="305" height="20" class="mask-rect mask-l3" transform-origin="40px 105px" />
+    <rect x="40" y="130" width="395" height="20" class="mask-rect mask-l4" transform-origin="40px 130px" />
+    <rect x="40" y="155" width="285" height="20" class="mask-rect mask-l5" transform-origin="40px 155px" />
+    <rect x="40" y="180" width="25" height="20" class="mask-rect mask-l6" transform-origin="40px 180px" />
+
+    <!-- Animated Bouncing Cursor -->
+    <g class="cursor-node">
+      <rect width="7" height="15" class="cursor" y="-12" />
+    </g>
+  </g>
+</svg>

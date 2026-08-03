@@ -1,0 +1,259 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 350" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="skills-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0b10" />
+      <stop offset="100%" stop-color="#12141f" />
+    </linearGradient>
+
+    <!-- Card Glow Filters -->
+    <filter id="glow-ts" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    
+    <filter id="glow-go" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="glow-py" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="glow-react" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="glow-node" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="glow-docker" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur" />
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@600;800&amp;family=JetBrains+Mono:wght@500;700&amp;display=swap');
+      
+      .header-title {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 800;
+        font-size: 13px;
+        fill: #7aa2f7;
+        letter-spacing: 3px;
+      }
+      
+      .tech-name {
+        font-family: 'JetBrains Mono', monospace;
+        font-weight: 700;
+        font-size: 11px;
+        fill: #a9b1d6;
+      }
+
+      .tech-category {
+        font-family: 'Outfit', sans-serif;
+        font-weight: 600;
+        font-size: 10px;
+        fill: #565f89;
+        letter-spacing: 0.5px;
+      }
+
+      /* Card styles */
+      .card-rect {
+        fill: #161925;
+        stroke: #24283b;
+        stroke-width: 1.5;
+        rx: 8px;
+      }
+
+      /* Subtle Floating Animations to prevent gap crowding */
+      .float-group-1 { animation: float1 5s ease-in-out infinite alternate; }
+      .float-group-2 { animation: float2 5.5s ease-in-out infinite alternate; }
+      .float-group-3 { animation: float3 4.8s ease-in-out infinite alternate; }
+
+      @keyframes float1 {
+        0% { transform: translateY(0px); }
+        100% { transform: translateY(-4px); }
+      }
+      @keyframes float2 {
+        0% { transform: translateY(-2px); }
+        100% { transform: translateY(2px); }
+      }
+      @keyframes float3 {
+        0% { transform: translateY(1px); }
+        100% { transform: translateY(-3px); }
+      }
+
+      /* Background Matrix Grid Lines */
+      .pulse-bg-line {
+        stroke: #1a1b26;
+        stroke-width: 1;
+        stroke-dasharray: 5 15;
+        animation: dash 25s linear infinite;
+      }
+      @keyframes dash {
+        to { stroke-dashoffset: -1000; }
+      }
+    </style>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="848" height="348" x="1" y="1" rx="10" fill="url(#skills-bg)" stroke="#24283b" stroke-width="1.5" />
+
+  <!-- Animated Background Grid Lines -->
+  <line x1="50" y1="40" x2="800" y2="40" class="pulse-bg-line" />
+  <line x1="50" y1="145" x2="800" y2="145" class="pulse-bg-line" />
+  <line x1="50" y1="250" x2="800" y2="250" class="pulse-bg-line" />
+
+  <!-- COLUMN 1: LANGUAGES -->
+  <g transform="translate(50, 30)">
+    <text x="10" y="25" class="header-title">LANGUAGES</text>
+    
+    <!-- TypeScript Card -->
+    <g transform="translate(10, 45)">
+      <g class="float-group-1">
+        <rect width="220" height="45" class="card-rect" stroke="#3178c6" filter="url(#glow-ts)" />
+        <circle cx="25" cy="22.5" r="10" fill="#3178c6" />
+        <text x="25" y="26" text-anchor="middle" font-family="'Outfit', sans-serif" font-weight="800" font-size="10" fill="#ffffff">TS</text>
+        <text x="50" y="26" class="tech-name">TypeScript</text>
+        <text x="205" y="26" class="tech-category" text-anchor="end">Core</text>
+      </g>
+    </g>
+
+    <!-- Go Card -->
+    <g transform="translate(10, 110)">
+      <g class="float-group-2">
+        <rect width="220" height="45" class="card-rect" stroke="#00add8" filter="url(#glow-go)" />
+        <circle cx="25" cy="22.5" r="10" fill="#00add8" />
+        <text x="25" y="26" text-anchor="middle" font-family="'Outfit', sans-serif" font-weight="800" font-size="10" fill="#ffffff">GO</text>
+        <text x="50" y="26" class="tech-name">Go / Golang</text>
+        <text x="205" y="26" class="tech-category" text-anchor="end">System</text>
+      </g>
+    </g>
+
+    <!-- Python Card -->
+    <g transform="translate(10, 175)">
+      <g class="float-group-3">
+        <rect width="220" height="45" class="card-rect" stroke="#3776ab" filter="url(#glow-py)" />
+        <circle cx="25" cy="22.5" r="10" fill="#3776ab" />
+        <text x="25" y="26" text-anchor="middle" font-family="'Outfit', sans-serif" font-weight="800" font-size="10" fill="#ffffff">PY</text>
+        <text x="50" y="26" class="tech-name">Python</text>
+        <text x="205" y="26" class="tech-category" text-anchor="end">Script</text>
+      </g>
+    </g>
+
+    <!-- JavaScript Card -->
+    <g transform="translate(10, 240)">
+      <g class="float-group-1">
+        <rect width="220" height="45" class="card-rect" stroke="#bb9af3" />
+        <circle cx="25" cy="22.5" r="10" fill="#bb9af3" />
+        <text x="25" y="26" text-anchor="middle" font-family="'Outfit', sans-serif" font-weight="800" font-size="10" fill="#161925">JS</text>
+        <text x="50" y="26" class="tech-name">JavaScript</text>
+        <text x="205" y="26" class="tech-category" text-anchor="end">Web</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- COLUMN 2: FRAMEWORKS -->
+  <g transform="translate(315, 30)">
+    <text x="10" y="25" class="header-title">FRAMEWORKS</text>
+    
+    <!-- React Card -->
+    <g transform="translate(10, 45)">
+      <g class="float-group-2">
+        <rect width="220" height="45" class="card-rect" stroke="#61dafb" filter="url(#glow-react)" />
+        <circle cx="25" cy="22.5" r="10" fill="#61dafb" />
+        <text x="25" y="26" text-anchor="middle" font-family="'Outfit', sans-serif" font-weight="800" font-size="10" fill="#161925">RE</text>
+        <text x="50" y="26" class="tech-name">React &amp; Next</text>
+        <text x="205" y="26" class="tech-category" text-anchor="end">UI</text>
+      </g>
+    </g>
+
+    <!-- Node Card -->
+    <g transform="translate(10, 110)">
+      <g class="float-group-3">
+        <rect width="220" height="45" class="card-rect" stroke="#339933" filter="url(#glow-node)" />
+        <circle cx="25" cy="22.5" r="10" fill="#339933" />
+        <text x="25" y="26" text-anchor="middle" font-family="'Outfit', sans-serif" font-weight="800" font-size="10" fill="#ffffff">NO</text>
+        <text x="50" y="26" class="tech-name">Node.js / Express</text>
+        <text x="205" y="26" class="tech-category" text-anchor="end">API</text>
+      </g>
+    </g>
+
+    <!-- Laravel Card -->
+    <g transform="translate(10, 175)">
+      <g class="float-group-1">
+        <rect width="220" height="45" class="card-rect" stroke="#ff2d20" />
+        <circle cx="25" cy="22.5" r="10" fill="#ff2d20" />
+        <text x="25" y="26" text-anchor="middle" font-family="'Outfit', sans-serif" font-weight="800" font-size="10" fill="#ffffff">LV</text>
+        <text x="50" y="26" class="tech-name">Laravel / PHP</text>
+        <text x="205" y="26" class="tech-category" text-anchor="end">MVC</text>
+      </g>
+    </g>
+
+    <!-- Tailwind Card -->
+    <g transform="translate(10, 240)">
+      <g class="float-group-2">
+        <rect width="220" height="45" class="card-rect" stroke="#06b6d4" />
+        <circle cx="25" cy="22.5" r="10" fill="#06b6d4" />
+        <text x="25" y="26" text-anchor="middle" font-family="'Outfit', sans-serif" font-weight="800" font-size="10" fill="#ffffff">TW</text>
+        <text x="50" y="26" class="tech-name">Tailwind CSS</text>
+        <text x="205" y="26" class="tech-category" text-anchor="end">CSS</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- COLUMN 3: INFRASTRUCTURE -->
+  <g transform="translate(580, 30)">
+    <text x="10" y="25" class="header-title">INFRASTRUCTURE</text>
+    
+    <!-- Docker Card -->
+    <g transform="translate(10, 45)">
+      <g class="float-group-3">
+        <rect width="220" height="45" class="card-rect" stroke="#2496ed" filter="url(#glow-docker)" />
+        <circle cx="25" cy="22.5" r="10" fill="#2496ed" />
+        <text x="25" y="26" text-anchor="middle" font-family="'Outfit', sans-serif" font-weight="800" font-size="10" fill="#ffffff">DK</text>
+        <text x="50" y="26" class="tech-name">Docker</text>
+        <text x="205" y="26" class="tech-category" text-anchor="end">DevOps</text>
+      </g>
+    </g>
+
+    <!-- Database Card -->
+    <g transform="translate(10, 110)">
+      <g class="float-group-1">
+        <rect width="220" height="45" class="card-rect" stroke="#7aa2f7" />
+        <circle cx="25" cy="22.5" r="10" fill="#7aa2f7" />
+        <text x="25" y="26" text-anchor="middle" font-family="'Outfit', sans-serif" font-weight="800" font-size="10" fill="#161925">DB</text>
+        <text x="50" y="26" class="tech-name">Postgres / Redis</text>
+        <text x="205" y="26" class="tech-category" text-anchor="end">Data</text>
+      </g>
+    </g>
+
+    <!-- Linux Card -->
+    <g transform="translate(10, 175)">
+      <g class="float-group-2">
+        <rect width="220" height="45" class="card-rect" stroke="#f7768e" />
+        <circle cx="25" cy="22.5" r="10" fill="#f7768e" />
+        <text x="25" y="26" text-anchor="middle" font-family="'Outfit', sans-serif" font-weight="800" font-size="10" fill="#ffffff">LX</text>
+        <text x="50" y="26" class="tech-name">Linux &amp; Nginx</text>
+        <text x="205" y="26" class="tech-category" text-anchor="end">Server</text>
+      </g>
+    </g>
+
+    <!-- Vercel Card -->
+    <g transform="translate(10, 240)">
+      <g class="float-group-3">
+        <rect width="220" height="45" class="card-rect" stroke="#73daca" />
+        <circle cx="25" cy="22.5" r="10" fill="#73daca" />
+        <text x="25" y="26" text-anchor="middle" font-family="'Outfit', sans-serif" font-weight="800" font-size="10" fill="#161925">VC</text>
+        <text x="50" y="26" class="tech-name">Vercel &amp; Cloud</text>
+        <text x="205" y="26" class="tech-category" text-anchor="end">Hosting</text>
+      </g>
+    </g>
+  </g>
+</svg>
