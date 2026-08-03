@@ -97,10 +97,16 @@ I am a passionate developer focused on building responsive, high-performance web
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/generated/github-stats.svg" height="180" alt="Overall Stats" />
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/generated/github-top-langs.svg" height="180" alt="Top Languages" />
-</p>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td valign="middle" style="border: none; padding: 5px;">
+      <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/generated/github-stats.svg" height="195" alt="Overall Stats" />
+    </td>
+    <td valign="middle" style="border: none; padding: 5px;">
+      <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/generated/github-top-langs.svg" height="195" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=niro1n&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
