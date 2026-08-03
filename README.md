@@ -10,6 +10,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=niro1n&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Visitor Counter">
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/niro1n?label=Followers&style=flat-square&color=bb9af3" alt="Followers">
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/niro1n?affiliations=OWNER&label=Stars&style=flat-square&color=73daca" alt="Stars">
 </p>
 
 <p align="center">
@@ -79,9 +83,9 @@ I am a passionate developer focused on building responsive, high-performance web
       <h3 style="margin-top: 0;">Next-Gen Microservices Architecture</h3>
       <p>Currently diving deep into distributed systems, event-driven architectures using Go, and real-time synchronization with WebSockets and Redis Pub/Sub.</p>
       <p>
-        <img src="https://img.shields.io/badge/Focus-System%20Design-73daca?style=flat-square&logo=opsgenie&logoColor=white" alt="Focus System Design" />
-        <img src="https://img.shields.io/badge/Language-Go-7aa2f7?style=flat-square&logo=go&logoColor=white" alt="Go Language" />
-        <img src="https://img.shields.io/badge/Stack-Docker%20%26%20Nginx-bb9af3?style=flat-square&logo=docker&logoColor=white" alt="Docker & Nginx" />
+        <img src="https://img.shields.io/badge/Focus-System%20Design-73daca?style=flat-square&logo=opsgenie&logoColor=white" alt="Focus" />
+        <img src="https://img.shields.io/badge/Language-Go-7aa2f7?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/Stack-Docker%20%26%20Nginx-bb9af3?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
       </p>
     </td>
   </tr>
@@ -94,36 +98,11 @@ I am a passionate developer focused on building responsive, high-performance web
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niro1n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niro1n&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=niro1n&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niro1n&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%">
-</p>
-
-## Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niro1n&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%">
-</p>
-
-## Developer Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 <p align="center">
@@ -138,6 +117,16 @@ I am a passionate developer focused on building responsive, high-performance web
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niro1n/niro1n/output/github-contribution-grid-snake.svg">
     <img alt="Contribution Snake" src="https://raw.githubusercontent.com/niro1n/niro1n/output/github-contribution-grid-snake.svg">
   </picture>
+</p>
+
+<p align="center">
+  <img src="assets/divider.svg" alt="Divider" width="100%">
+</p>
+
+## Developer Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 <p align="center">
