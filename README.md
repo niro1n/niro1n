@@ -98,8 +98,8 @@ I am a passionate developer focused on building responsive, high-performance web
 ## GitHub Statistics
 
 <p align="center">
-  <img src="generated/github-stats.svg" height="180" alt="Overall Stats" />
-  <img src="generated/github-top-langs.svg" height="180" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/generated/github-stats.svg" height="180" alt="Overall Stats" />
+  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/generated/github-top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
