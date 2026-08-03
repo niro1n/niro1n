@@ -12,6 +12,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Generate Stats SVGs
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout Repo
@@ -20,13 +22,12 @@ jobs:
       - name: Generate Stats Card
         uses: teoxoy/profile-readme-stats@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          output_dir: generated
+          token: ${{ secrets.STATS_TOKEN }}
 
       - name: Commit and Push
         run: |
           git config --global user.name "GitHub Actions Bot"
           git config --global user.email "actions@github.com"
-          git add generated/
+          git add README.md
           git diff --cached --quiet || git commit -m "chore: update generated stats [skip ci]"
           git push
