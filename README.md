@@ -92,16 +92,6 @@ I am an passionate developer focused on building responsive, high-performance we
   <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
-## 📁 Featured Projects
-
-| 🌐 **Pulse-Router** | 📊 **Apex Dashboard** |
-| :--- | :--- |
-| A high-throughput, pluggable event routing service built in Go, designed for asynchronous communication. <br><br> ![Go](https://img.shields.io/badge/Go-7aa2f7?style=flat-for-the-badge&logo=go) ![Redis](https://img.shields.io/badge/Redis-f7768e?style=flat-for-the-badge&logo=redis) <br> [💻 GitHub Repo](https://github.com/niro1n) • [🖥️ Live Demo](#) • <kbd>Status: Active</kbd> | A modern performance metric visualization panel built using Next.js 15, Tailwind, and Prisma ORM. <br><br> ![Next.js](https://img.shields.io/badge/Next.js-7aa2f7?style=flat-for-the-badge&logo=nextdotjs) ![Prisma](https://img.shields.io/badge/Prisma-73daca?style=flat-for-the-badge&logo=prisma) <br> [💻 GitHub Repo](https://github.com/niro1n) • [🖥️ Live Demo](#) • <kbd>Status: Completed</kbd> |
-
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%">
-</p>
-
 ## 📊 GitHub Statistics
 
 <p align="center">
