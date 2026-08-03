@@ -1,7 +1,7 @@
 <!-- Premium GitHub Profile README | Tokyo Night Theme -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/banner.svg" alt="Syahfrino Rezky Oktaviant Banner" width="100%">
+  <img src="assets/banner.svg" alt="Syahfrino Rezky Oktaviant Banner" width="100%">
 </p>
 
 <p align="center">
@@ -10,11 +10,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Singapore/Jakarta-7aa2f7?style=flat-for-the-badge&logo=googlemaps&logoColor=1a1b26" alt="Location Badge">
-  <img src="https://komarev.com/normal-badge/?username=niro1n&color=7aa2f7&style=for-the-badge&label=VISITORS" alt="Visitor Counter">
+  <img src="https://profile-counter.glitch.me/niro1n/count.svg" alt="Visitor Counter">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/divider.svg" alt="Divider" width="100%">
+  <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
 ## 🚀 About Me
@@ -30,17 +30,17 @@ I am an passionate developer focused on building responsive, high-performance we
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/terminal.svg" alt="Interactive Coding Terminal" width="100%">
+  <img src="assets/terminal.svg" alt="Interactive Coding Terminal" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/divider.svg" alt="Divider" width="100%">
+  <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
 ## 🛠️ Tech Stack & Skills
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/skills.svg" alt="Animated Skills Dashboard" width="100%">
+  <img src="assets/skills.svg" alt="Animated Skills Dashboard" width="100%">
 </p>
 
 <br>
@@ -69,7 +69,7 @@ I am an passionate developer focused on building responsive, high-performance we
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/divider.svg" alt="Divider" width="100%">
+  <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
 ## 🔍 Currently Exploring
@@ -89,7 +89,7 @@ I am an passionate developer focused on building responsive, high-performance we
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/divider.svg" alt="Divider" width="100%">
+  <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
 ## 📁 Featured Projects
@@ -99,7 +99,7 @@ I am an passionate developer focused on building responsive, high-performance we
 | A high-throughput, pluggable event routing service built in Go, designed for asynchronous communication. <br><br> ![Go](https://img.shields.io/badge/Go-7aa2f7?style=flat-for-the-badge&logo=go) ![Redis](https://img.shields.io/badge/Redis-f7768e?style=flat-for-the-badge&logo=redis) <br> [💻 GitHub Repo](https://github.com/niro1n) • [🖥️ Live Demo](#) • <kbd>Status: Active</kbd> | A modern performance metric visualization panel built using Next.js 15, Tailwind, and Prisma ORM. <br><br> ![Next.js](https://img.shields.io/badge/Next.js-7aa2f7?style=flat-for-the-badge&logo=nextdotjs) ![Prisma](https://img.shields.io/badge/Prisma-73daca?style=flat-for-the-badge&logo=prisma) <br> [💻 GitHub Repo](https://github.com/niro1n) • [🖥️ Live Demo](#) • <kbd>Status: Completed</kbd> |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/divider.svg" alt="Divider" width="100%">
+  <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
 ## 📊 GitHub Statistics
@@ -122,7 +122,7 @@ I am an passionate developer focused on building responsive, high-performance we
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/divider.svg" alt="Divider" width="100%">
+  <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
 ## 🏆 Achievements & Badges
@@ -147,7 +147,7 @@ I am an passionate developer focused on building responsive, high-performance we
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/divider.svg" alt="Divider" width="100%">
+  <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
 ## 🎵 Dev Soundtrack & Wisdom
@@ -168,7 +168,7 @@ I am an passionate developer focused on building responsive, high-performance we
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/divider.svg" alt="Divider" width="100%">
+  <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
 ## 👾 Contribution Snake
@@ -178,7 +178,7 @@ I am an passionate developer focused on building responsive, high-performance we
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/divider.svg" alt="Divider" width="100%">
+  <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
 ## ⚡ Recent Activity
@@ -188,7 +188,7 @@ I am an passionate developer focused on building responsive, high-performance we
 <!-- END_SECTION:activity -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/divider.svg" alt="Divider" width="100%">
+  <img src="assets/divider.svg" alt="Divider" width="100%">
 </p>
 
 ## 🤝 Connect With Me
@@ -209,7 +209,7 @@ I am an passionate developer focused on building responsive, high-performance we
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/assets/footer.svg" alt="Waves Footer" width="100%">
+  <img src="assets/footer.svg" alt="Waves Footer" width="100%">
 </p>
 
 <p align="center">
