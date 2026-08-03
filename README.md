@@ -94,16 +94,16 @@ I am a passionate developer focused on building responsive, high-performance web
 ## GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=niro1n&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f111a&title_color=7aa2f7&icon_color=bb9af3&text_color=a9b1d6&rank_icon=github" height="185" alt="Overall Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niro1n&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f111a&title_color=7aa2f7&text_color=a9b1d6&langs_count=8" height="185" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=niro1n&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="Overall Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niro1n&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=niro1n&theme=tokyonight&hide_border=true&background=0f111a&ring=7aa2f7&fire=f7768e&currStreakNum=7aa2f7&sideNums=a9b1d6&sideLabels=a9b1d6&dates=a9b1d6" height="185" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=niro1n&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niro1n&theme=tokyo-night&bg_color=0f111a&color=7aa2f7&line=bb9af3&point=73daca&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niro1n&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
@@ -113,7 +113,7 @@ I am a passionate developer focused on building responsive, high-performance web
 ## Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niro1n&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=niro1n&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">
@@ -123,7 +123,7 @@ I am a passionate developer focused on building responsive, high-performance web
 ## Developer Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote Generator" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 <p align="center">
