@@ -208,9 +208,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.06"
+          x="246.07"
           y="0"
-          width="13.94"
+          width="13.93"
           height="8"
           fill="#3178c6"
         />
