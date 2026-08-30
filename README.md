@@ -1,170 +1,131 @@
-<!-- Premium GitHub Profile README | Tokyo Night Theme -->
-
 <p align="center">
-  <img src="assets/banner.svg" alt="Syahfrino Rezky Oktaviant Banner" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo/niroin-logo-white.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo/niroin-logo-black.png">
+    <img alt="NIROIN Logo" src="assets/logo/niroin-logo-white.png" width="80">
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Outfit&weight=600&size=24&duration=3000&pause=1000&color=7aa2f7&background=1a1b2600&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Technology+Enthusiast;Open+Source+Learner;Builder+of+Useful+Applications" alt="Typing SVG">
+  <code>NIROIN // DIGITAL IDENTITY / 01</code>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=niro1n&color=7aa2f7&style=flat-square&label=Profile+Views" alt="Visitor Counter">
+  <b>SYAHFRINO REZKY OKTAVIANT</b> &bull; SOFTWARE DEVELOPER &bull; INDONESIA
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=niro1n&color=090909&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views">
   &nbsp;
-  <img src="https://img.shields.io/github/followers/niro1n?label=Followers&style=flat-square&color=bb9af3" alt="Followers">
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE-090909?style=flat-square" alt="Status Active">
   &nbsp;
-  <img src="https://img.shields.io/github/stars/niro1n?affiliations=OWNER&label=Stars&style=flat-square&color=73daca" alt="Stars">
+  <img src="https://img.shields.io/badge/LOCATION-INDONESIA-090909?style=flat-square" alt="Location">
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%">
+  <sub>CREATIVE ENGINEERING &bull; SYSTEMS &bull; DIGITAL EXPERIENCES</sub>
 </p>
 
-## About Me
+---
 
-I am a passionate developer focused on building responsive, high-performance web applications and experimenting with modern tech stacks.
-
-- 💻 **Full Stack Developer**: Building clean, scalable user interfaces and backend architectures.
-- 🌐 **Open Source Learner**: Actively exploring public codebases and contributing to community projects.
-- 🧠 **Builder of Useful Applications**: Creating developer tooling, automations, and productivity utilities.
-- ⚡ **Technology Enthusiast**: Continuously learning new patterns, algorithms, and design paradigms.
-- 🛠️ **Practical Architecture**: Adhering to clean code principles, simple structures, and test-driven workflows.
-
-<br>
+<h2 align="center">I BUILD DIGITAL EXPERIENCES.</h2>
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="Interactive Coding Terminal" width="100%">
+  Software developer crafting refined web systems, interactive applications, and thoughtful digital experiences.
 </p>
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%">
-</p>
+---
 
-## Tech Stack & Skills
+### 01 ── PHILOSOPHY & VISION
 
-<p align="center">
-  <img src="assets/skills.svg" alt="Animated Skills Dashboard" width="100%">
-</p>
+> *"Technology should not exist just because it can. It should solve something, simplify something, or create something worth experiencing."*
 
-<br>
+| Index | Pillar | Principle |
+| :---: | :--- | :--- |
+| `01` | **SOLVE SOMETHING** | Resolve real-world complexity and deliver tangible utility. |
+| `02` | **SIMPLIFY SOMETHING** | Remove friction, eliminate unnecessary noise, and make interaction intuitive. |
+| `03` | **CREATE SOMETHING** | Craft digital systems with tactile depth, spatial rhythm, and memorable craft. |
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td valign="top" width="50%" style="border: none; padding: 10px;">
-      <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=ts,js,py,go,php,java,lua,html,css&perline=6" alt="Languages" />
-    </td>
-    <td valign="top" width="50%" style="border: none; padding: 10px;">
-      <h3>Frameworks &amp; Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,figma&perline=6" alt="Frameworks & Frontend" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td valign="top" width="50%" style="border: none; padding: 10px;">
-      <h3>Backend &amp; Database</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,prisma,postgres,mysql,sqlite,mongodb,redis&perline=6" alt="Backend & Databases" />
-    </td>
-    <td valign="top" width="50%" style="border: none; padding: 10px;">
-      <h3>Tools &amp; DevOps</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman,vscode,firebase,cloudflare,vercel,railway&perline=6" alt="Tools & DevOps" />
-    </td>
-  </tr>
-</table>
+```text
+CADENCE // LEARN ───> BUILD ───> SOLVE ───> REPEAT
+```
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%">
-</p>
+---
 
-## Currently Exploring
+### 02 ── TECHNOLOGY STACK
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td style="border: 1px solid #24283b; border-radius: 8px; padding: 20px; background-color: #0f111a;">
-      <h3 style="margin-top: 0;">Next-Gen Microservices Architecture</h3>
-      <p>Currently diving deep into distributed systems, event-driven architectures using Go, and real-time synchronization with WebSockets and Redis Pub/Sub.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Focus-System%20Design-73daca?style=flat-square&logo=opsgenie&logoColor=white" alt="Focus" />
-        <img src="https://img.shields.io/badge/Language-Go-7aa2f7?style=flat-square&logo=go&logoColor=white" alt="Go" />
-        <img src="https://img.shields.io/badge/Stack-Docker%20%26%20Nginx-bb9af3?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-      </p>
-    </td>
-  </tr>
-</table>
+```text
+LANGUAGES
+PHP · JavaScript · TypeScript · Java · Lua
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%">
-</p>
+FRAMEWORKS & UI
+Laravel · Next.js · React · React Native · Flutter
 
-## GitHub Statistics
+SYSTEMS & DATA
+Docker · Git & GitHub · MySQL · PostgreSQL · Tailwind CSS
+```
 
-<table align="center" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td valign="middle" style="border: none; padding: 5px;">
-      <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/generated/github-stats.svg" height="195" alt="Overall Stats" />
-    </td>
-    <td valign="middle" style="border: none; padding: 5px;">
-      <img src="https://raw.githubusercontent.com/niro1n/niro1n/main/generated/github-top-langs.svg" height="195" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+| Domain | Core Stack | Status |
+| :--- | :--- | :--- |
+| **Languages** | `PHP` &bull; `JavaScript` &bull; `TypeScript` &bull; `Java` &bull; `Lua` | Primary Standard |
+| **Frameworks** | `Laravel` &bull; `Next.js` &bull; `React` &bull; `React Native` &bull; `Flutter` | Production Stack |
+| **Ecosystem** | `Docker` &bull; `Git & GitHub` &bull; `MySQL` &bull; `PostgreSQL` &bull; `Tailwind CSS` | Daily Infrastructure |
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=niro1n&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niro1n&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
+### 03 ── JOURNEY
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%">
-</p>
+```text
+2020 ───────────────────────────────────────────────> PRESENT [ FREELANCE // CONTINUOUS ]
+2024 [ IT SUPPORT ] ──> 2025–2026 [ IT CORE ] ──> 2026–PRESENT [ IT HEAD ]
+```
 
-## Contribution Snake
+#### Professional Track
+- **2026 — PRESENT** &bull; `IT HEAD` *(Stage 03 // Leadership)*  
+  Technical direction, system governance, operational leadership, and technology initiative execution.
+- **2025 — 2026** &bull; `IT CORE` *(Stage 02 // Expansion)*  
+  System architecture & development, IT infrastructure scaling, database operations, and process automation.
+- **2024** &bull; `IT SUPPORT` *(Stage 01 // Foundation)*  
+  System troubleshooting, user operations, hardware diagnostics, and foundational infrastructure.
+
+#### Independent Track
+- **2020 — PRESENT** &bull; `FREELANCE DEVELOPER` *(Parallel Path // Est. 2020)*  
+  Continuous independent creation alongside the professional career — building bespoke web applications, interactive UI/UX systems, and tailored digital solutions.
+
+---
+
+### 04 ── GITHUB CADENCE
+
+Public codebases, architectural experiments, and ongoing contributions.
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/niro1n/niro1n/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/niro1n/niro1n/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/niro1n/niro1n/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/niro1n/niro1n/output/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
 </p>
 
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%">
-</p>
+---
 
-## Developer Quote
+### 05 ── CONNECT
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" alt="Divider" width="100%">
-</p>
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/niro1n">
-    <img src="https://img.shields.io/badge/LinkedIn-niro1n-7aa2f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/niro1n">
-    <img src="https://img.shields.io/badge/Twitter-niro1n-73daca?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:syahfrino.rezky@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-bb9af3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://github.com/niro1n">
-    <img src="https://img.shields.io/badge/GitHub-niro1n-f7768e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-%40niro1n-090909?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/rinorezky">
+    <img src="https://img.shields.io/badge/INSTAGRAM-%40rinorezky-090909?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  &nbsp;
+  <a href="mailto:syahfrino.rezky@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-syahfrino.rezky%40gmail.com-090909?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
-<p align="center">
-  <img src="assets/footer.svg" alt="Waves Footer" width="100%">
-</p>
+---
 
 <p align="center">
-  <sub>Crafted by <b>Syahfrino Rezky Oktaviant</b> · Tokyo Night Theme</sub>
+  <sub>&copy; 2026 NIROIN &bull; SYAHFRINO REZKY OKTAVIANT &bull; CRAFTED WITH RESTRAINT</sub>
 </p>
