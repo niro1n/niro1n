@@ -1,17 +1,5 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/logo/niroin-logo-white.png">
-    <source media="(prefers-color-scheme: light)" srcset="assets/logo/niroin-logo-black.png">
-    <img alt="NIROIN Logo" src="assets/logo/niroin-logo-white.png" width="80">
-  </picture>
-</p>
-
-<p align="center">
-  <code>NIROIN // DIGITAL IDENTITY / 01</code>
-</p>
-
-<p align="center">
-  <b>SYAHFRINO REZKY OKTAVIANT</b> &bull; SOFTWARE DEVELOPER &bull; INDONESIA
+  <img src="assets/niroin-hero.gif" alt="Niroin — Syahfrino Rezky Oktaviant" width="100%">
 </p>
 
 <p align="center">
@@ -20,10 +8,6 @@
   <img src="https://img.shields.io/badge/STATUS-ACTIVE-090909?style=flat-square" alt="Status Active">
   &nbsp;
   <img src="https://img.shields.io/badge/LOCATION-INDONESIA-090909?style=flat-square" alt="Location">
-</p>
-
-<p align="center">
-  <sub>CREATIVE ENGINEERING &bull; SYSTEMS &bull; DIGITAL EXPERIENCES</sub>
 </p>
 
 ---
